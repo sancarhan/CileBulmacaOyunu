@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\bin\Debug\net6.0\Bulmaca.exe
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\bin\Debug\net6.0\Bulmaca.deps.json
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\bin\Debug\net6.0\Bulmaca.runtimeconfig.json
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\bin\Debug\net6.0\Bulmaca.dll
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\bin\Debug\net6.0\Bulmaca.pdb
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\obj\Debug\net6.0\Bulmaca.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\obj\Debug\net6.0\Bulmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\obj\Debug\net6.0\Bulmaca.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\obj\Debug\net6.0\Bulmaca.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\obj\Debug\net6.0\Bulmaca.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\obj\Debug\net6.0\Bulmaca.dll
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\obj\Debug\net6.0\refint\Bulmaca.dll
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\obj\Debug\net6.0\Bulmaca.pdb
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\obj\Debug\net6.0\Bulmaca.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\Bulmaca\obj\Debug\net6.0\ref\Bulmaca.dll
